@@ -1,2 +1,2 @@
-# oszt-lyprojekt
+# osztályprojekt
 11.E próba projekt
